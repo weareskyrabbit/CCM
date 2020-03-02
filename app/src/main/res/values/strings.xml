@@ -1,4 +1,12 @@
 <resources>
     <string name="app_name">CCM</string>
+    <string name="menu_title">Title</string>
+    <string name="menu_sub_title">SubTitle</string>
+    <string name="action_search">Search</string>
     <string name="action_settings">Settings</string>
+    <string name="button_new">New</string>
+    <string name="button_register">Register</string>
+    <string name="button_back">Back</string>
+    <string name="text_title">Title</string>
+    <string name="text_body">Body</string>
 </resources>
